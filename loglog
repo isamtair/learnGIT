@@ -1,0 +1,29 @@
+commit 7adff72aad128b204a53e25cf5e77dadd80d90ac
+Author: isamtair <isamtair@yahoo.com>
+Date:   Sat Aug 24 14:06:06 2019 +0300
+
+    adding 4,csv after editing
+
+commit 77038801cbcc8e3d21f29c3ffada661783f228e3
+Author: isamtair <isamtair@yahoo.com>
+Date:   Sat Aug 24 14:01:54 2019 +0300
+
+    Committing 1.csv
+
+commit d4755331ca58916f8ac3a6aab848bc953215c149
+Author: isamtair <isamtair@yahoo.com>
+Date:   Sat Aug 24 14:01:01 2019 +0300
+
+    removed files 1.csv from statging with reset-HEAD and rm  flags
+
+commit 728487b830231f3d1d68d6af2361b7daeecb16dc
+Author: isamtair <isamtair@yahoo.com>
+Date:   Sat Aug 24 13:54:07 2019 +0300
+
+    Adding files 1.csv and 2.csv
+
+commit 37fb08eed8645d416ce0eb2cff7138a6b4d54368
+Author: isamtair <isamtair@yahoo.com>
+Date:   Sat Aug 24 13:45:00 2019 +0300
+
+    adding first files to repo
